@@ -7,8 +7,8 @@
   #   - award: Summa Cumme Laude graduate
   summary: In pursuit of my degree, I have tailored my studies to focus heavily on statistics and machine learning, supplemented by an array of Computer Science classes. This inter-disciplinary approach has enabled me to not only build a strong mathematical foundation, but also develop practical skills in machine learning and data analysis. My aim is to leverage these skills to extract meaningful insights from complex datasets and drive decision-making processes.
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Bachelor of Arts in Economics and Business Studies
+  uni: New York Univerity
+  year: 2014 &mdash; 2018
+  # award: Most likely to succeed
+  # summary: You can choose to have either a single or multiple awards
