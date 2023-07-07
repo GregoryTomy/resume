@@ -1,11 +1,14 @@
 # Degree
 - degree: Master of Science in Applied Mathematics
   uni: University of Colorado Boulder
-  year: 2022 &mdash; Present
-  awards:
-    - award: GPA: 4.0
-  summary: In pursuit of my degree in Applied Mathematics with a strong emphasis on Statistics and Machine Learning, enriched by Computer Science coursework. 
+  year: 2022 &mdash; Current
+  gpa: 4.0
+  # awards:
+  #   - award: Summa Cumme Laude graduate
+  summary: In pursuit of my degree, I have tailored my studies to focus heavily on statistics and machine learning, supplemented by an array of Computer Science classes. This inter-disciplinary approach has enabled me to not only build a strong mathematical foundation, but also develop practical skills in machine learning and data analysis. My aim is to leverage these skills to extract meaningful insights from complex datasets and drive decision-making processes.
 
-- degree: Bachelor of Arts in Economics and Business Studies
-  uni: New York Univeristy
-  year: 2014 &mdash; 2018
+- degree: High School Diploma
+  uni: Springfield High School
+  year: 2004
+  award: Most likely to succeed
+  summary: You can choose to have either a single or multiple awards
