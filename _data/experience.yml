@@ -1,11 +1,9 @@
 # Jobs
 
-# - company: CVS Health
-#   position: Data Scientist
-#   duration: May, 2023 &mdash; Present
-#   summary: Interned as a Data Scientist with CVS Health Analytics and Behavior Change team, leveraging data to drive health-focused behavioral changes and impact customer wellness.
-# <ul class="resume-item-list"><li>Leverage BigQuery on Google Cloud Platform to extract and analyze data from the Clinical Data Repository (CDR) and Aetna databases to identify a quantifiable smoker population.</li><li>Conduct an in-depth exploration of CDR to analyze patient data pertaining to cardiovascular diseases to build a business case for the significance of early detection of cardiovascular diseases.t</li><li>
-
+- company: CVS Health
+  position: Data Scientist
+  duration: May, 2023 &mdash; Present
+  summary: Interned as a Data Scientist with CVS Health Analytics and Behavior Change team, leveraging data to drive health-focused behavioral changes and impact customer wellness. <ul class="resume-item-list"><li>Leverage BigQuery on Google Cloud Platform to extract and analyze data from the Clinical Data Repository (CDR) and Aetna databases to identify a quantifiable smoker population.</li><li>Conduct an in-depth exploration of CDR to analyze patient data pertaining to cardiovascular diseases to build a business case for the significance of early detection of cardiovascular diseases.t</li><li>
 
 - company: University of Colorado
   position: Academic Coach Intern
