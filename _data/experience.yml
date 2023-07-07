@@ -8,10 +8,20 @@
 - company: University of Colorado
   position: Academic Coach Intern
   duration:  Sept, 2022 &mdash; May, 2023
-  summary: Assessed student academic needs and led targeted presentations and group coaching sessions, devising strategies to enhance academic performance and foster learning success.
+  summary: <ul class="resume-item-list">
+  <li>Accessed student academic needs and developed strategies to improve academic performance.</li>
+  <li>Lead academic skills presentations and group coaching.</li>
 
 
 - company: Brean Strategic Advisors
   position: Communications Coordinator
   duration:  Jun, 2008  &mdash; May, 2010
-  summary: <ul class="resume-item-list"><li> Performed complex financial analysis and designed predictive valuation and risk analytics models on investment portfolios of over $100 billion in aggregate.<li>Forecasted loan portfolio prices and created deliverables on weekly and monthly basis for industry leading Non-QM mortgage lenders.<ul>Developed data cleaning pipeline in Python for loan pricing models.<ul><li>Prepared balance sheet strategies for credit unions incorporating secondary capital, fixed income, loan participations, and non-member funding.<li><ul>Guided multiple clients to successful NCUA Secondary Capital program applications.<ul><ul>Presented results effectively to technical and non-technical stakeholders.<ul><li>Provided banks litigation support by analyzing non-agency RMBS and CDO investments including cashflow waterfalls, modelling settlement allocations, and minimizing plaintiff damage claims.<li><ul>Modeled $3+ billion of RMBS loans to ascertain whether breaches of Representations and Warranties materially and adversely affected the value of mortgage loans<ul>.
+  summary: <ul class="resume-item-list">
+  <li> Performed complex financial analysis and designed predictive valuation and risk analytics models on investment portfolios of over $100 billion in aggregate.</li>
+  <li>Forecasted loan portfolio prices and created deliverables on weekly and monthly basis for industry leading Non-QM mortgage lenders.</li>
+  <ul>Developed data cleaning pipeline in Python for loan pricing models.</ul>
+  <li>Prepared balance sheet strategies for credit unions incorporating secondary capital, fixed income, loan participations, and non-member funding.</li>
+  <ul>Guided multiple clients to successful NCUA Secondary Capital program applications.</ul>
+  <ul>Presented results effectively to technical and non-technical stakeholders.</ul>
+  <li>Provided banks litigation support by analyzing non-agency RMBS and CDO investments including cashflow waterfalls, modelling settlement allocations, and minimizing plaintiff damage claims.</li>
+  <ul>Modeled $3+ billion of RMBS loans to ascertain whether breaches of Representations and Warranties materially and adversely affected the value of mortgage loans</ul>.
