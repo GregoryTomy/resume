@@ -1,8 +1,8 @@
 # Skills
 # Organizational leadership
 - skill: Languages
-  description: Python, SQL, R
+  description: <ul class="resume-item-list"><li>Python</li> <li>SQL</li><li> R</li>
 
 # Communications strategy
 - skill: Proficiencies
-  description: Scikit-Learn, PyTorch, Google Cloud Platform, BigQuery, Tableau, Microsoft Excel, data cleaning and analysis, statistical analysis, machine learning, presentations, econometrics, financial modeling.
+  description: <ul class="resume-item-list"> <li>Scikit-Learn</li><li>PyTorch</li> <li>Google Cloud Platform</li> <li>BigQuery</li> <li>Tableau</li><li>Microsoft Excel</li> <li>Data cleaning and analysis</li> <li>Statistical analysis</li><li>Presentations </li><li>econometrics</li> </li>financial modeling</li>
